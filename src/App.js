@@ -5,7 +5,6 @@ import NavBar from "./components/NavBar/NavBar";
 import Search from "./components/Search/Search";
 
 import { MuiThemeProvider } from "material-ui/styles";
-
 class App extends Component {
   render() {
     return (
